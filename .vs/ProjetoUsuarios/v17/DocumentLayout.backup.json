@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|c:\\users\\enzzo\\source\\repos\\projetousuarios\\projetousuarios\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|solutionrelative:projetousuarios\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|c:\\users\\enzzo\\source\\repos\\projetousuarios\\projetousuarios\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|solutionrelative:projetousuarios\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|c:\\users\\enzzo\\source\\repos\\projetousuarios\\projetousuarios\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|solutionrelative:projetousuarios\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|c:\\users\\enzzo\\source\\repos\\projetousuarios\\projetousuarios\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|solutionrelative:projetousuarios\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|c:\\users\\enzzo\\source\\repos\\projetousuarios\\projetousuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|solutionrelative:projetousuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|c:\\users\\enzzo\\source\\repos\\projetousuarios\\projetousuarios\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|solutionrelative:projetousuarios\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|c:\\users\\enzzo\\source\\repos\\projetousuarios\\projetousuarios\\projetousuarios.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A8769E9F-D8C5-424A-9296-8793489C7CBF}|ProjetoUsuarios\\ProjetoUsuarios.csproj|solutionrelative:projetousuarios\\projetousuarios.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ProjetoUsuarios\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ProjetoUsuarios\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:25:26.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ProjetoUsuarios\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Services\\UserService.cs",
+              "RelativeToolTip": "ProjetoUsuarios\\Services\\UserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:12:10.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ProjetoUsuarios\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ProjetoUsuarios\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:47:42.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProjetoUsuarios\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Models\\User.cs",
+              "RelativeToolTip": "ProjetoUsuarios\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:47:07.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjetoUsuarios",
+              "DocumentMoniker": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\ProjetoUsuarios.csproj",
+              "RelativeDocumentMoniker": "ProjetoUsuarios\\ProjetoUsuarios.csproj",
+              "ToolTip": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\ProjetoUsuarios.csproj",
+              "RelativeToolTip": "ProjetoUsuarios\\ProjetoUsuarios.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T23:26:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoUsuarios\\Program.cs",
+              "ToolTip": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Program.cs",
+              "RelativeToolTip": "ProjetoUsuarios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:26:21.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "ProjetoUsuarios\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\enzzo\\source\\repos\\ProjetoUsuarios\\ProjetoUsuarios\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "ProjetoUsuarios\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:22:37.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
