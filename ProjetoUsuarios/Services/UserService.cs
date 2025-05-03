@@ -22,11 +22,25 @@ namespace ProjetoUsuarios.Services
             return _repository.GetById(id);
         }
 
-        public void CreateUser(User user) {
+        public bool CreateUser(User user)
+        {
 
-             _repository.Add(user);
+            var usuarioExistente = GetUserById(user.Id);
+
+            if (usuarioExistente == null)
+            {
+                 
+                _repository.Add(user);
+                return true;
+            }
+            else
+            {
+             
+                return false;
+            }
+
+
         }
-
         public void UpdateUser(User user) {
             _repository.Update(user);
         }

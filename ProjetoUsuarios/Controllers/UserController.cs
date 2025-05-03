@@ -40,8 +40,16 @@ namespace ProjetoUsuarios.Controllers
         [HttpPost]
         public IActionResult Create([FromBody] User user)
         {
-            _service.CreateUser(user);
-            return CreatedAtAction(nameof(GetById), new { id = user.Id }, user);
+            var userCreated = _service.CreateUser(user);
+            
+            if (userCreated) { 
+                return Created("Usuario inserido com sucesso!" ,CreatedAtAction(nameof(GetById), new { id = user.Id }, user.Id));
+            }
+            else
+            {
+               return   Conflict("Usuario Existente");
+            }
+            
         }
 
         [HttpPut("{id}")]
